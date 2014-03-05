@@ -1,1 +1,0 @@
-/Users/alexcabrera/.vim/colors/crm114.vim
